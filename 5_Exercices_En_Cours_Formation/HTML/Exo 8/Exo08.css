@@ -1,0 +1,16 @@
+div, p{
+    height: 200px;
+    width:  200px;
+    margin: 20px;
+    border: 2px solid black;
+}
+.one {
+    background: linear-gradient(to bottom left, red,green,blue);
+}    
+.two {
+    background: linear-gradient(-70deg, yellow, purple 25%);
+}
+
+.grey {
+    background: linear-gradient(to top, rgba(0, 0, 0, 0.5), rgb(255, 255, 255))
+}

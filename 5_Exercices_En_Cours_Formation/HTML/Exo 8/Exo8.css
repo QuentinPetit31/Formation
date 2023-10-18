@@ -1,0 +1,57 @@
+#bleu{
+    font-size: 25px;
+    background-color: skyblue;
+    border-radius: 30% 70% 70% 30% / 30% 58% 42% 70%;
+    padding: 00px;
+}
+
+
+#texte{
+        text-shadow: 0px 0px 9px 
+      #777;
+        color: 
+      #fff;
+}
+
+#deux{
+        -webkit-text-stroke: 2px;
+        -webkit-text-stroke-color: #d60;
+}
+
+
+#trois{
+                width: 200px;
+                height: 200px;
+                border: 2px solid black;
+                margin-right: 20px; /* Espacement horizontal entre les <divs> */
+                display: inline-block; /* Pour qu'elles soient alignés côte à côte */
+                background: linear-gradient(to bottom left, red, green, blue);/* Style pour le font à l'intérieur des <div> */
+                padding: 10px; /* Espace entre le texte et la bordure */
+}
+
+
+#violet{
+                width: 200px;
+                height: 200px;
+                border: 2px solid black;
+                margin-right: 20px; /* Espacement horizontal entre les <divs> */
+                display: inline-block; /* Pour qu'elles soient alignés côte à côte */
+                background: linear-gradient(-70deg, yellow 0%, PURPLE 25%);/* Style pour le font à l'intérieur des <div> */
+                padding: 10px; /* Espace entre le texte et la bordure */
+}
+   
+
+#gris{
+                width: 200px;
+                height: 200px;
+                border: 2px solid black;
+                margin-right: 20px; /* Espacement horizontal entre les <divs> */
+                display: inline-block; /* Pour qu'elles soient alignés côte à côte */
+                background: linear-gradient(rgb(255, 255, 255), transparent 50%, rgb(0, 0, 0)); /* Dégradé blanc vers noir avec transparence à 50% */
+                padding: 10px; /* Espace entre le texte et la bordure */
+                display: inline-block; 
+}
+
+#grey { 
+  background: linear-gradient(to top, rgba(0, 0, 0 0.5), rgb(0, 0, 0))
+}

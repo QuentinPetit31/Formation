@@ -1,0 +1,44 @@
+h1{
+    color: red;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 3em;
+    font-style: oblique;
+    text-align: center;
+}
+
+h3{
+    color: blue;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-style:initial;
+    text-align: left;
+    font-size: 1.5em;
+}
+
+p{
+    color: rgb(0, 0, 0);
+    text-align: left;
+    background-color: lightgray;  
+}
+
+#paragraphe3{
+    text-align:left;
+    background-color:rgb(179, 113, 113);
+}
+
+#Titre3{
+    text-align:right;
+    color:greenyellow;
+    text-decoration:underline;
+}
+
+em{
+    font size normal;
+    color : orange;
+    font-size: 1.5em;
+    text-decoration:underline;
+}
+
+strong{font size normal;
+    color : green;
+    font-size: 1em;
+}

@@ -1,0 +1,8 @@
+li:nth-child(even){
+    color:rgb(135, 6, 255)
+}
+
+ul:hover{
+    li:hover
+}
+

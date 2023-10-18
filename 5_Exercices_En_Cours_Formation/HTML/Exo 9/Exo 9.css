@@ -1,0 +1,28 @@
+caption{ 
+    color: blueviolet;
+    font-weight: bold;
+
+}    
+
+table{
+    text-align: center;
+    border-width: 2px;
+    border:  double blueviolet 5px;
+    border-collapse: collapse;
+}
+
+th{
+    
+    background-color:rgb(111, 213, 213);
+    border: 1px solid black;
+
+}
+
+td{
+    border: 1px solid black;
+}
+
+body{
+    img src=href"images/le-voyage-de-chihiro-photo-1053523.jpg";
+
+    }

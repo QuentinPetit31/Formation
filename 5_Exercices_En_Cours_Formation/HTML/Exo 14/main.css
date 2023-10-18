@@ -1,0 +1,68 @@
+.dice{
+    border: 2px red solid;
+    border-radius: 25px;
+    background-color: lightgray;
+    width: 100px;
+    height: 100px;
+    margin: 20px;
+}
+
+.dot{
+    width: 10px;
+    height: 10px;
+    border: 1px red solid;
+    background-color: red;
+    border-radius: 10px;
+}
+
+#d1{
+    display : flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#d2{
+    display : flex;
+    align-items: center;
+    justify-content: center;
+    justify-content: space-evenly;
+
+}
+
+#d3{
+    display : flex;
+    align-items: center;
+    justify-content: center;
+    justify-content: space-evenly;
+}
+
+#d4{
+    display : flex;
+    align-items: center;
+    justify-content: center;
+    justify-content: space-evenly;
+
+}
+    
+#d5{
+    display : flex;
+    align-items: center;
+    justify-content: center;
+    justify-content: space-evenly;
+    
+}
+
+#d6{
+    display : flex;
+    align-items: center;
+    justify-content: center;
+    justify-content: space-evenly;
+    align-content: space-between;
+    column-gap: 20px;
+    display: flex;
+    gap: 10px;
+    gap: 10px 20px; /* row-gap column gap */
+    row-gap: 10px;
+    column-gap: 20px;
+}
+

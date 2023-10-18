@@ -1,0 +1,57 @@
+body{
+    background: radial-gradient(to #CCDAE0 to#EDF2F4)
+}
+
+header{
+    text-align: center
+
+}
+
+h1{
+    color: #EF233C;
+    font-size: xx-large;
+    text-align: center;
+    font-family: Impact, 'Arial Narrow Bold', sans-serif;
+}
+
+h3{
+
+    color: #2b2d42;
+    font-size: x-large;
+    text-align: left;
+    border-bottom: 1px dashed #999; text-decoration: none; 
+} 
+
+footer{
+    text-align: right;
+}
+
+div img{
+    text-align: center;
+    border: #8D99AE solid 2px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+a:link {
+    color: #d90429
+}
+
+a:visited{
+    color: grey
+}
+
+a:hover{
+    color:#2b2d42;
+}
+article{
+    border: #2b2d42 solid 2px;
+}
+
+#img{
+    text-align: center;
+}
+
+span[class*=asterisk] {
+    color: red;
+}
